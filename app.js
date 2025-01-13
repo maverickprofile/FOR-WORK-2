@@ -5,6 +5,9 @@
 // add new feature - button
 // add new feature - input
 
+<<<<<<< HEAD
 //mistakes
 
 
+=======
+>>>>>>> main
